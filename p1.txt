@@ -4,5 +4,9 @@ shankar
 =======
 hi swagath
 srivatsa is a boy
+<<<<<<< HEAD
 acharya
 >>>>>>> parent of c949177 (file saved)
+=======
+acharya institute of technology
+>>>>>>> c949177 (file saved)
