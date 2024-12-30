@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 ijshsj
 shankar
+=======
+hi swagath
+srivatsa is a boy
+acharya
+>>>>>>> parent of c949177 (file saved)
